@@ -22,7 +22,7 @@ Es importante señalar que el administrador de datos es un gerente, no un técni
 (aunque ciertamente sí necesita apreciar las posibilidades de los sistemas de bases
 de datos en un nivel técnico). El técnico responsable de poner en práctica las
 decisiones del administrador de datos es el administrador de bases de datos (casi
-siempre abreviado DBA, database administrador).. </font></marquee>
+siempre abreviado DBA, database administrador)... </font></marquee>
 <img src="C:\Users\EDUARDO\Pictures\Base de Datos.jpg">
 <img src="C:\Users\EDUARDO\Pictures\cube.gif">
 </body>
