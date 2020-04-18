@@ -1,0 +1,27 @@
+Descripcion de archivos por integrante
+
+Jose Daniel Chocoy
+info.html
+
+Brian Eduardo Batz
+Area de investigacion.html
+
+Emilio Medina
+Admnistracion de redes.html
+
+Alejandro de Leon
+AlejandrodeLeon.html
+
+David Gomez Gomez
+Administracion de sistemas de informacion.html
+
+Eduardo Ramirez
+Administracion de bases de datos.html
+
+Josue Maldonado Lepe
+Prograweb(1).html
+
+Jairo Rodriguez
+Arturo Cardona
+index.html
+
